@@ -1,0 +1,11 @@
+extern const GeoLayout monteman_wing_mask_metal_geo_opt_1[];
+extern const GeoLayout monteman_wing_mask_metal_geo[];
+extern u8 monteman_wing_mask_metal_tex1_64x64_a313190745fdbefc_4_ci8[];
+extern u8 monteman_wing_mask_metal_tex1_64x64_a313190745fdbefc_4_pal_rgba16[];
+extern Vtx monteman_wing_mask_metal_Winged_Metal_Cap_DL_mesh_layer_1_vtx_0[227];
+extern Gfx monteman_wing_mask_metal_Winged_Metal_Cap_DL_mesh_layer_1_tri_0[];
+extern Gfx mat_monteman_wing_mask_metal_Monte_Metal_layer1[];
+extern Gfx mat_revert_monteman_wing_mask_metal_Monte_Metal_layer1[];
+extern Gfx mat_revert_monteman_wing_mask_metal_Monte_Metal_layer5[];
+extern Gfx monteman_wing_mask_metal_Winged_Metal_Cap_DL_mesh_layer_1_with_layer_1_revert[];
+extern Gfx monteman_wing_mask_metal_Winged_Metal_Cap_DL_mesh_layer_1_opt_1_with_layer_5_revert[];
